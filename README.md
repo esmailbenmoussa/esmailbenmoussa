@@ -1,18 +1,49 @@
-### Hi there 👋
+# 👋 Hi, I'm Esmail Ben Moussa
 
+🚀 **Senior DevOps Engineer | Python Tooling Expert | Data Cloud Migration Specialist**  
+📍 Stockholm, Sweden | 📫 [esmailbenmoussa@gmail.com](mailto:esmailbenmoussa@gmail.com) | [LinkedIn](https://linkedin.com/in/esmailbenmoussa) | [Website](https://www.spacecan.ai/)
 
+---
 
-<!--
-**esmailbenmoussa/esmailbenmoussa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💼 About Me
 
-Here are some ideas to get you started:
+I’m a DevOps Engineer with over 10 years of experience delivering automation tooling, large-scale platform migrations, and infrastructure solutions for global leaders like **Microsoft** and **GitHub**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Tech Stack & Expertise
+
+- **Languages:** Python, JavaScript / TypeScript, React / Next.js, C#, SQL  
+- **DevOps & Cloud:** Azure DevOps, GitHub Actions, ADO Pipelines, Git, GitLab  
+- **Frameworks:** React Native (Expo & Vanilla), TailwindCSS, GraphQL, Subabase  
+- **Soft Skills:** Scrum, SAFe, Agile Project Leadership, Cross-functional Collaboration, Technical Consulting  
+
+---
+
+## 🚧 Current Focus
+
+🔹 Leading Azure DevOps and GitHub Enterprise migrations for major clients  
+🔹 Building scalable, Python-based automation tools  
+🔹 Designing collaborative mobile experiences enhanced by GenAI & NLP  
+
+---
+
+## 🌟 Featured Projects
+
+**🔗 [SpaceCan.ai](https://www.spacecan.ai/)**  
+*A social cooking app with AI-powered image and NLP enhancements*  
+> Built with React Native, TypeScript, PowerSync, and LoRA models
+
+**🔗 [Zeroo.app](https://www.zeroo.app/)**  
+*A privacy-first personal finance app for budgeting and forecasting*  
+> Built with React Native, TypeScript, and SQLite (fully offline-first)
+
+---
+
+## 📬 Let's Connect
+
+I’m open to roles in **DevOps / Data / ML Engineering**, or **Technical Leadership** — remote or hybrid.  
+Feel free to reach out via [email](mailto:esmailbenmoussa@gmail.com) or [LinkedIn](https://linkedin.com/in/esmailbenmoussa) for collaboration or career opportunities.
+
+---
+⭐️ _Thanks for visiting my GitHub profile!_
