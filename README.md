@@ -42,7 +42,6 @@ I’m a DevOps Engineer with over 10 years of experience delivering automation t
 
 ## 📬 Let's Connect
 
-I’m open to roles in **DevOps / Data / ML Engineering**, or **Technical Leadership** — remote or hybrid.  
 Feel free to reach out via [email](mailto:esmailbenmoussa@gmail.com) or [LinkedIn](https://linkedin.com/in/esmailbenmoussa) for collaboration or career opportunities.
 
 ---
