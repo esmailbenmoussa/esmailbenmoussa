@@ -22,7 +22,7 @@ I’m a Data & DevOps Engineer with over 10 years of experience building automat
 
 ## 🚧 Current Focus
 
-🔹 Leading Azure DevOps and GitHub Enterprise migrations for major clients  
+🔹 Led Azure DevOps and GitHub Enterprise migrations for Fortune 500 enterprises across multiple industries
 🔹 Building scalable, Python-based automation tools  
 🔹 Designing collaborative mobile experiences enhanced by GenAI & NLP  
 
