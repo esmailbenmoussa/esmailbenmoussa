@@ -7,7 +7,7 @@
 
 ## 💼 About Me
 
-I’m a DevOps Engineer with over 10 years of experience delivering automation tooling, large-scale platform migrations, and infrastructure solutions for global leaders like **Microsoft** and **GitHub**.
+I’m a Data & DevOps Engineer with over 10 years of experience building automation workflows and restructuring API-driven data for cloud platforms.
 
 ---
 
