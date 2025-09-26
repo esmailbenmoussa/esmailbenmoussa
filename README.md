@@ -14,7 +14,7 @@ I’m a Data & DevOps Engineer with over 10 years of experience building automat
 ## 🛠 Tech Stack & Expertise
 
 - **Languages:** Python, JavaScript / TypeScript, React / Next.js, C#, SQL  
-- **DevOps & Cloud:** Azure DevOps, GitHub Actions, ADO Pipelines, Git, GitLab  
+- **DevOps & Cloud:** Azure DevOps, GitHub Actions, ADO Pipelines, Git, Docker  
 - **Frameworks:** React Native (Expo & Vanilla), TailwindCSS, GraphQL, Subabase  
 - **Soft Skills:** Scrum, SAFe, Agile Project Leadership, Cross-functional Collaboration, Technical Consulting  
 
