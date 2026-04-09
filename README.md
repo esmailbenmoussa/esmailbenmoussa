@@ -1,24 +1,22 @@
 # 👋 Hi, I'm Esmail Ben Moussa
 
-📍 Stockholm, Sweden | 📫 [esmailbenmoussa@gmail.com](mailto:esmailbenmoussa@gmail.com) | [LinkedIn](https://linkedin.com/in/esmailbenmoussa) | [Website](https://www.spacecan.ai/)
+## 🧑‍💻 About me
 
----
+ - 🇸🇪 Born and based in Stockholm, Sweden  
+ - 💻 Background in software engineering, cloud, and DevOps  
+ - 🧠 Interested in system design, developer experience, and scalable architectures
+ - ⚙️ Experience working with production systems used across large teams and projects  
+ - 🌍 Worked with international teams across Europe and North America  
 
-## 🌟 Featured Personal Projects
+## 🎯 Outside of work
 
-**🔗 [SpaceCan.ai](https://www.spacecan.ai/)**  
-*A social cooking app with AI-powered image and NLP enhancements*  
-> Built with React Native, TypeScript, PowerSync, and LoRA models
+ - 🧪 Building apps [Spacecan](https://apps.apple.com/se/app/spacecan-kitchen-collabs/id6741410692?l=en-GB), [Zeroo](https://apps.apple.com/se/app/zeroo/id6504881241?l=en-GB) 
+ - 🎧 Collecting Electronic music (2000s)
+ - 🏃‍♂️ Running marathons
+ - 🌍 Traveling
 
-**🔗 [Zeroo.app](https://www.zeroo.app/)**  
-*A privacy-first personal finance app for budgeting and forecasting*  
-> Built with React Native, TypeScript, and SQLite (fully offline-first)
 
----
+## 📫 Contact
 
-## 📬 Let's Connect
-
-Feel free to reach out via [email](mailto:esmailbenmoussa@gmail.com) or [LinkedIn](https://linkedin.com/in/esmailbenmoussa) for collaboration or career opportunities.
-
----
-⭐️ _Thanks for visiting my GitHub profile!_
+ - LinkedIn: https://linkedin.com/in/esmailbenmoussa  
+ - Email: esmailbenmoussa@gmail.com  
