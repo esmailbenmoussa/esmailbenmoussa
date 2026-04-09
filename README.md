@@ -20,3 +20,9 @@
 
  - LinkedIn: https://linkedin.com/in/esmailbenmoussa  
  - Email: esmailbenmoussa@gmail.com  
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,ts,nodejs,react,nextjs,fastapi,graphql,postgres,docker,kubernetes,azure,aws,gcp,terraform,github,gitlab,bitbucket,jenkins,git,linux&perline=8" />
+</p>
